@@ -29,7 +29,7 @@ section{
   
 
 }
-#myVideo {
+/* #myVideo {
   position: sticky;
   width: 100vw;
   height: 100vh;
@@ -39,15 +39,16 @@ section{
   top: 0;
   bottom: 0;
   z-index: 0;
-  
+
 }
 
 .mycontent {
   position: relative;
   bottom: 0;
-  background: rgba(238, 234, 234, 0.5);
+
+    background: rgba(238, 234, 234, 0.5);
   color: #f1f1f1;
-}
+} */
 
 #myBtn {
   object-fit: cover;
@@ -78,6 +79,7 @@ section{
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
+  background-image: url("./images/big.png");
 
 }
 
